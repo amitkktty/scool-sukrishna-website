@@ -1,0 +1,42 @@
+.bold { font-weight:bold;}
+.text-teal{color:teal;}
+.bg-teal{background:teal;}
+.bg-bluedk{background:#004d99;}
+.text-bluedk{color:#004d99;}
+.bg-bluedark{background-color:#002699;}
+.bg-blue{background-color:#058FD0;}
+.bg-bluelt{background-color:#49BBF1;}
+.bg-bluelight{background-color:#BEEAFF;}
+.bg-cyandk {  background-color:#2AC4CC;	 }
+.bg-cyanlt {  background-color:#57E7EF;	 }
+.bg-cyanlight {  background-color:#ECFEFF;	 }
+.bg-orange{background-color:#FF4300;}
+.bg-orangelt { 	background-color:#FFE4C2; }
+.bg-orangelight { 	background-color:#FFF5E8; }
+.text-greendk { 	color:#05742E; }
+.bg-greendk { 	background-color:#05742E; }
+.bg-greenlt { 	background-color:#76ffc2; }
+.bg-greenlight { 	background-color:#c2ffe4; }
+.bg-info{color:white;}
+.sd-1
+{
+	box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+}
+.sd-2
+{
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.ck-editor__editable_inline {
+    min-height: 150px;
+}
+.approved_list::-webkit-scrollbar {
+      width: 10px; 
+   }
+
+.approved_list::-webkit-scrollbar-track {
+    background-color: cyan;
+  }
+
+.approved_list::-webkit-scrollbar-thumb {
+    background: teal; 
+  }

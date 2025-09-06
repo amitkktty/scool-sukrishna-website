@@ -1,0 +1,294 @@
+.oenl__css{
+  position: absolute !important;
+    width: 173px !important;
+    z-index: 9999;
+    margin-top: -19px !important;
+}
+
+.mgtops{
+    margin-top: 73px;
+}
+
+.stiy-ab{
+   padding: 15px;
+    background: #266155;
+}
+.know-more{
+    margin-top: 20px;
+}
+.mmmmost{
+        background: #266155b5;
+    border-radius: 3px;
+}
+.knomore{
+    background: #bd2319;
+}
+.cou-med{
+    margin-top: 3px;
+}
+.mmdd-co{
+        font-size: 38px !important; 
+    border-radius: 25px;
+}
+.sm-btn-cs{
+    background: #fff;
+    color: #000;
+    border-radius: 12px;
+}
+
+.cards-thing{
+    padding: 21px;
+    border-top: 5px solid #ddd;
+    border-bottom: 3px solid #ddd;
+    border-right: 2px solid #bc213c;
+}
+.spl-texts{
+    color:  #000;
+    font-weight: 900;
+}
+.bggss-pp{
+        background: #03294e;
+}
+.colleg-btn{
+    margin-top: 15px;
+    text-align: center;
+    border-left: 6px solid;
+    border-right: 6px solid;
+    border-radius: 10px;
+}
+.course-bgg{
+    background: #af2139;
+}
+.img-csdsr{
+        border-radius: 6px;
+    border-left: 3px solid #b6213b;
+    border-right: 3px solid #b6213b;
+}
+.ownbtncs{
+        background: #fff;
+    color: #000;
+    border-right: 2px solid #b5213a;
+}
+.view-more-eng{
+    background: tomato;
+    border-right: 5px solid #282c52;
+    border-radius: 10px;
+    border-left: 8px solid #312d52;
+}
+.special-btns{
+    background: linear-gradient( 
+129deg
+ ,#0b2952,#ee424f);
+    border: 1px solid;
+}
+.card-title-iit{
+    padding-top: 12px;
+    text-align: center;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+    border-radius: 6px;
+}
+
+.smae-bftn{
+    background: linear-gradient(to bottom, #1aa5d8, #1386b1);
+    color: #fff !important;
+}
+.admi-experts-cards{
+    border: 4px solid #4caf50;
+}
+.view-all-exms{
+        font-weight: 600;
+    text-decoration: underline;
+    font-size: 14px;
+}
+.jeet-bggs{
+        border: 3px solid #7d71b1;
+}
+.card-bsj{
+       padding: 26px;
+    box-shadow: 2px 2px 2px 2px #ddd; 
+}
+
+.country-btn{
+	border-radius: inherit;
+    padding-top: 8px;
+    box-shadow: 4px 3px 0px -1px #187c73;
+}
+.exmp-bgg{
+	background: #ddd;
+}
+
+
+/*client slider*/
+#ourclients {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background:#f9f9f9;
+  padding-bottom:30px; 
+
+}
+#ourclients .clients-wrap {
+  display: block;
+  width: 95%;
+  margin: 0 auto;
+  overflow: hidden;
+
+}
+#ourclients .clients-wrap ul {
+  display: block;
+  list-style: none;
+  position: relative;
+  margin-left: auto;
+
+  margin-right: auto;
+}
+#ourclients .clients-wrap ul li {
+  display: block;
+  float: left;
+  position: relative;
+  width: 175px;
+  height: 100px;
+
+  line-height: 100px;
+  text-align: center;
+}
+#ourclients .clients-wrap ul li img {
+  vertical-align: middle;
+  max-width: 100%;
+  width:150px;
+  max-height: 100%;
+  -webkit-transition: 0 linear left;
+  -moz-transition: 0 linear left;
+  transition: 0 linear left;
+  border-radius: 5px;	
+}
+#ourclients h3{
+        border-bottom: 1px solid #ffffff;
+    padding: 22px;
+}
+.ttffw{
+    font-weight: 900;
+}
+.ccd-bgs{
+        background: #efeeee;
+    margin: auto;
+}
+/*client slider*/
+
+
+
+
+
+
+.bg-btnns{
+   background: brown;
+}
+.bg-aply{
+    background: #2196f3;
+}
+.online-reg{
+	background: crimson;
+}
+.text-dees{
+    color: #000;
+    font-size: 20px;
+}
+.cards-border{
+	box-shadow: 0px 2px 3px 2px #ddd;
+    padding-top: 13px;
+    background: #ddd;
+}
+.text-whitesss{
+	color: #fff !important;
+}
+
+.find-coll{
+	font-size: 25px !important;
+    font-weight: 500 !important;
+    font-family: inherit !important;
+}
+.text-white{
+	color: #fff !important;
+}
+.bg-btns{
+	background: #898f1f !important;
+}
+.custome-cont{
+	    width: 1285px;
+}
+
+.coll-fonts{
+	font-size: 18px !important;
+}
+.coll-btn{
+	background: #efa140;
+    border-radius: 2px;
+}
+
+/*Accodion Css Start*/
+
+
+
+
+
+#accordion .panel{
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: -5px;
+}
+#accordion .panel-heading{
+    padding: 0;
+    border: none;
+    border-radius: 0;
+}
+#accordion .panel-title a{
+    display: block;
+    padding: 5px 70px 15px 20px;
+    background: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #e6720d;
+    border-bottom: 1px solid #1d2e3b;
+    position: relative;
+}
+#accordion .panel-title a.collapsed{ color: #1d2e3b; }
+#accordion .panel-title a.collapsed:hover{ color: #e6720d; }
+#accordion .panel-title a:before,
+#accordion .panel-title a:after{
+    content: "";
+    width: 3px;
+    height: 10px;
+    background: #e6720d;
+    font-size: 15px;
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    transform: rotate(-45deg);
+    transition: all 0.3s ease-in-out 0s;
+}
+#accordion .panel-title a:after{
+    right: 29px;
+    transform: rotate(45deg);
+}
+#accordion .panel-title a.collapsed:before{
+    transform: rotate(45deg);
+    background: #1d2e3b;
+}
+#accordion .panel-title a.collapsed:after{
+    transform: rotate(-45deg);
+    background: #1d2e3b;
+}
+#accordion .panel-title a.collapsed:hover:before,
+#accordion .panel-title a.collapsed:hover:after{ background: #e6720d; }
+#accordion .panel-body{
+   padding: 13px 17px;
+    background: #ffffff;
+    border-top: none;
+    font-size: 15px;
+    color: #fff;
+    line-height: 25px;
+}
+/*Accodion Css end*/
